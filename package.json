@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "css-loader": "^2.1.1",
     "mint-ui": "^2.2.13",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "style-loader": "^0.23.1",
     "stylus-loader": "^3.0.2",
     "vue": "^2.6.10",
